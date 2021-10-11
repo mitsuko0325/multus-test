@@ -1,0 +1,1 @@
+- centos-2のNodeSelectorを編集すること

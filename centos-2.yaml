@@ -17,4 +17,4 @@ spec:
   dnsPolicy: ClusterFirst
   restartPolicy: Always
   nodeSelector:
-    kubernetes.io/hostname: multus-test-worker02
+    kubernetes.io/hostname: iks-sarimits-worker-dc08bfec20
